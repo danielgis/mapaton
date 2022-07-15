@@ -3,7 +3,7 @@ import './Navbar.css'
 
 export const NavbarComp = () => (
     <div className="containerTool">
-        <h1 class="title">INGEOANDES</h1>
+        <h1 className="title">INGEOANDES</h1>
         <label className="label is-small">Lorem, ipsum dolor sit amet consectetur</label>
         <input type="text" className="input is-small" />
         <label className="label is-small">Lorem, ipsum dolor sit amet consectetur</label>
