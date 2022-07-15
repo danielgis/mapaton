@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mapaton/static/css/main.f76b2f05.css",
-    "main.js": "/mapaton/static/js/main.e801f450.js",
+    "main.css": "/mapaton/static/css/main.9e76490d.css",
+    "main.js": "/mapaton/static/js/main.5794f6b0.js",
     "static/js/787.94f4ef0f.chunk.js": "/mapaton/static/js/787.94f4ef0f.chunk.js",
     "index.html": "/mapaton/index.html",
-    "main.f76b2f05.css.map": "/mapaton/static/css/main.f76b2f05.css.map",
-    "main.e801f450.js.map": "/mapaton/static/js/main.e801f450.js.map",
+    "main.9e76490d.css.map": "/mapaton/static/css/main.9e76490d.css.map",
+    "main.5794f6b0.js.map": "/mapaton/static/js/main.5794f6b0.js.map",
     "787.94f4ef0f.chunk.js.map": "/mapaton/static/js/787.94f4ef0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f76b2f05.css",
-    "static/js/main.e801f450.js"
+    "static/css/main.9e76490d.css",
+    "static/js/main.5794f6b0.js"
   ]
 }
