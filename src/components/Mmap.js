@@ -17,7 +17,12 @@ import {ZoomToExtent, defaults as defaultControls} from 'ol/control';
 
 
 
-const extent = [-77.8, -9.435, -77.45, -9.17]
+const extent = [
+  -77.85741023699999,
+  -9.483638727000005,
+  -77.41570111199999,
+  -9.098945603000027
+]
 // const maxs = fromLonLat([-80, -1])
 class MapComp extends Component {
     constructor(props) {
@@ -45,7 +50,7 @@ class MapComp extends Component {
         ],
         view: new OlView({
           center: fromLonLat([-75, -9]),
-          zoom: 11,
+          zoom: 1,
           extent: transformExtent(extent,'EPSG:4326','EPSG:3857'),
         }),
         controls: defaultControls().extend([
