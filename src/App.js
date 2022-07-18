@@ -2,18 +2,19 @@ import './App.css'
 import React from "react";
 // import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
 import MapComp from "./components/Mmap";
-import { NavbarComp } from "./components/Navbar";
+// import NavbarComp from "./components/Navbar";
 
 function App() {
   return (
-    <div className="mainContainer">
-      <div className="containerControls">
-        <NavbarComp></NavbarComp>
-      </div>
-      <div className="containerMap">
-        <MapComp></MapComp>
-      </div>
-    </div>
+    <MapComp></MapComp>
+    // <div className="mainContainer">
+    //   <div className="containerControls">
+    //     <NavbarComp></NavbarComp>
+    //   </div>
+    //   <div className="containerMap">
+    //     <MapComp></MapComp>
+    //   </div>
+    // </div>
     // <Router>
     //   <div>
     //     <Routes>
